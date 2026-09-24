@@ -48,9 +48,13 @@ The app reads that from your phone's own calendar settings rather than assuming.
 If it looks wrong, check your iOS Language & Region settings first.
 
 **What happens after the 14-day trial?**
-The widget, the hours and pay screen, and export lock. **The calendar itself
-stays free forever** — your rotations, your months and your edits all keep
-working, and nothing you have entered is taken away.
+The app needs Pro — Lifetime or Monthly — to keep opening. **Nothing you have
+entered is deleted**: your rotation and your edits come back the moment you
+unlock or restore Pro.
+
+**How do I move my rotation to a new phone?**
+Settings → Back up my data, save the file to Files or iCloud Drive, then on the
+new phone use Settings → Restore from a backup.
 
 **I bought lifetime. Will that change?**
 No. See the [Terms of Use](./terms/); it is written down there deliberately.

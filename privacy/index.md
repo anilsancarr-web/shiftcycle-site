@@ -4,13 +4,14 @@ title: Privacy Policy
 
 # Privacy Policy — Shift Cycle
 
-**Last updated: 5 August 2026**
+**Last updated: 23 September 2026**
 
 ## The short version
 
 **Shift Cycle does not collect your data.** There is no account, no server
 holding your roster, and no analytics or tracking of any kind. Everything you
-enter stays on your device.
+enter stays on your device — unless you choose to put your shifts in the
+Calendar app or save a backup, both described below.
 
 ---
 
@@ -41,6 +42,30 @@ It does not leave the phone.
 
 Deleting the app removes all of it. We cannot recover it, because we never had
 it.
+
+## Calendar, reminders and backups — only if you turn them on
+
+- **Calendar.** If you tap "Add my shifts to Calendar", the app asks for
+  calendar access and writes your shifts, with any day notes, into a separate
+  calendar called "Shift Cycle" in the iOS Calendar app. It only reads, changes
+  and deletes events in that calendar, and never touches your other calendars.
+  If your calendars sync with iCloud, Apple syncs this one too, under Apple's
+  privacy policy — it does not pass through us. That calendar stays in the
+  Calendar app if you delete Shift Cycle; remove it from the app first, or
+  delete it in the Calendar app.
+- **Shift reminders.** Reminders are local notifications scheduled on your
+  phone. No push server is involved and nothing is sent anywhere.
+- **Backups.** "Back up my data" creates a file and hands it to the iOS share
+  sheet. Where it goes — Files, iCloud Drive, AirDrop, email — is your choice.
+  The app never uploads it.
+
+## App updates
+
+To receive bug fixes without a new App Store download, the app checks Expo's
+update service (expo.dev) when it starts. That request carries the app
+version, the platform (iOS), the release channel and a random identifier for
+this installation. It never carries your rotation, shifts, notes or pay rate.
+Expo's privacy policy: [expo.dev/privacy](https://expo.dev/privacy)
 
 ## Purchases
 

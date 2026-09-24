@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use — Shift Cycle
 
-**Last updated: 5 August 2026**
+**Last updated: 23 September 2026**
 
 Please read these terms before using Shift Cycle (the "App"). By using the App
 you agree to them. If you do not agree, do not use the App.
@@ -42,18 +42,19 @@ Your rotation, your edits and your notes are **yours**, stored on your device.
 We claim no ownership and no licence over them.
 
 The App works offline and we operate no server that holds your work. **We cannot
-recover your data** if your device is lost, reset, or the App is deleted. Device
-backup is the practical protection.
+recover your data** if your device is lost, reset, or the App is deleted. Settings
+→ "Back up my data" saves a file you keep wherever you choose, and device backup
+protects it too.
 
-## 5. The free tier and the trial
+## 5. The trial
 
 Everything is unlocked for the first **14 days**, which is stated in the App
 before the trial begins.
 
-After that, the widget, the hours and pay screen, and export require a purchase.
-**The calendar itself stays free, permanently** — your rotations, your months and
-your individual day edits keep working, and nothing you have already entered is
-taken away or hidden.
+After that, the App requires a purchase (Lifetime or Monthly) to keep using it.
+**Nothing you have entered is deleted**: your rotation, shifts and notes stay on
+your device and come back the moment Pro is unlocked or restored. Restore
+purchase is on the purchase screen.
 
 ## 6. Purchases
 
